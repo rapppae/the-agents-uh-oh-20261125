@@ -4,7 +4,7 @@
 
 Entry for the make.fun bounty [The Agent's Uh-Oh](https://make.fun/bounty/u-danu-the-agent-s-uh-oh-4c0911e4).
 
-> Recalculating...
+> Recalculating…
 
 ## Run
 
